@@ -1,4 +1,4 @@
-Decoder-Only Transformer Language Model (From Scratch)
+##Decoder-Only Transformer Language Model (From Scratch)
 
 A minimal GPT-style decoder-only Transformer language model implemented from scratch in PyTorch, built to deeply understand how modern LLMs work at the systems and algorithmic level.
 
@@ -171,3 +171,4 @@ PyTorch
 SentencePiece
 
 NumPy
+
